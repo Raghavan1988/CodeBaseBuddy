@@ -1,0 +1,5 @@
+annoy==1.17.3
+langchain==0.0.279
+sentence-transformers==2.2.2
+openai==0.28.0
+open-interpreter==0.1.6
