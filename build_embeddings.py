@@ -88,3 +88,6 @@ with open('index_map' + name + '.txt', 'w') as f:
     for idx, path in index_map.items():
         f.write(f'{idx}\t{path}\n')
 
+
+print("Indices created :" + name1 + " , " + name2)
+print("Number of files indexed: " + str(len(files)))
