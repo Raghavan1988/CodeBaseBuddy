@@ -1,0 +1,9 @@
+0	/home/raghavan/localGPT/localGPT_UI.py
+1	/home/raghavan/localGPT/constants.py
+2	/home/raghavan/localGPT/run_localGPT.py
+3	/home/raghavan/localGPT/ingest.py
+4	/home/raghavan/localGPT/.pyup.yml
+5	/home/raghavan/localGPT/run_localGPT_API.py
+6	/home/raghavan/localGPT/load_models.py
+7	/home/raghavan/localGPT/prompt_template_utils.py
+8	/home/raghavan/localGPT/localGPTUI/localGPTUI.py
