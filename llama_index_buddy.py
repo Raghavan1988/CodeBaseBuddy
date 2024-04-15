@@ -1,3 +1,4 @@
+### inspired by the hello world example
 import sys
 import os.path
 
