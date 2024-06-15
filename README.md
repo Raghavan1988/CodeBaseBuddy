@@ -20,6 +20,7 @@ Once you've set up CodeBaseBuddy, you can start querying for your tasks. Here's 
 
 ```bash
 (base) raghavan@raghavan-Blade-18-RZ09-0484:~/CodeBaseBuddy$ python search.py "which files should i change and how should i add support to new LLM Falcon 80b" 5 localGPT
+```
 
 ## Sample screenshots
 [Screenshot from 2023-10-14 00-19-13](https://github.com/Raghavan1988/CodeBaseBuddy/assets/493090/5bd63e8b-52f6-483d-8a06-492d50cd2fff)
