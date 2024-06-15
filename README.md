@@ -24,5 +24,6 @@ Once you've set up CodeBaseBuddy, you can start querying for your tasks. Here's 
 
 ## Sample screenshots
 [Screenshot from 2023-10-14 00-19-13](https://github.com/Raghavan1988/CodeBaseBuddy/assets/493090/5bd63e8b-52f6-483d-8a06-492d50cd2fff)
+
 [Screenshot from 2023-10-14 00-21-33](https://github.com/Raghavan1988/CodeBaseBuddy/assets/493090/03a1f3b5-f939-43bb-b1c9-efcec6548c22)
 Remember LLMs hallucinate :-)
