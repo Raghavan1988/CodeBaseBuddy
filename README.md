@@ -1,6 +1,6 @@
 # CodeBaseBuddy
 
-Welcome to CodeBaseBuddy! This tool helps you navigate and understand your codebase better. For a visual walkthrough, check out our ![Presentation](https://docs.google.com/presentation/d/1snzmLBxwP_0WuHEyJUdqvj_8iVpj_isCiKgMzaR7EWE/edit?usp=sharing)
+Welcome to CodeBaseBuddy! This tool helps you navigate and understand your codebase better. For a visual walkthrough, check out our [Presentation](https://lablab.ai/event/open-interpreter-hackathon/githubbuddy/codebasebuddy)
  and ![Loom Video](https://www.loom.com/share/348d46575c2f42a68b8fa82d879f40aa?sid=45fc13ea-55a1-40b0-915b-dc8c0adbf4b9) .
 
 ## Getting Started
