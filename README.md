@@ -5,6 +5,8 @@ Welcome to CodeBaseBuddy! This tool helps you navigate and understand your codeb
 
  DZONE article: [link](https://dzone.com/articles/code-search-using-retrieval-augmented-generation)
 
+ 
+
 ## Getting Started
 
 Follow these steps to get CodeBaseBuddy up and running:
