@@ -1,3 +1,4 @@
+### I built this when Claude code was not even a thing as a simple Code Search RAG
 import os
 from langchain.embeddings import OpenAIEmbeddings
 import langchain
